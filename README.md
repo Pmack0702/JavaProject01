@@ -1,2 +1,2 @@
 # JavaProject01
-This is my Firsr Java Project
+This is my First Java Project
